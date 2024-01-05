@@ -1,0 +1,69 @@
+h1{
+    font-weight: bolder;
+    color: blue;
+    font-size: 70px;
+}
+#aside{
+    border: 1px solid whitesmoke  ;
+    width: 330px;
+    margin-right: 120px;
+    margin-top: 80px;
+    height: 360px;
+    padding: 12px;
+    border-radius: 20px;
+    background-color: lightcyan;
+    box-shadow: 10px 10px 20px burlywood;
+    float: right;
+}
+.aside{
+    float: left;
+    margin-left: 180px;
+    margin-top: 200px;
+}
+.p{
+    font-size: large;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.p1{
+    font-size: 28px;
+    width: 500px;
+}
+*{
+    margin: 0px;
+
+}
+#log{
+    background-color: rgba(0, 0, 255, 0.658);
+    width: 300px;
+    text-align: center;
+    margin-left: 5px;
+    height: 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+    
+h5{
+    text-align: center;
+    color: blueviolet;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+h2{
+    background-color: rgba(10, 229, 10, 0.954);
+    height: 43px ;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-top: 8px;
+    margin: 5px 25px;
+}
+hr{
+    color: whitesmoke;
+
+}

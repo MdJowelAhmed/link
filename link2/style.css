@@ -1,0 +1,25 @@
+li{
+    display: inline;
+}
+nav > ul > li > a{
+    text-decoration: none;
+}
+td,th{
+    border: 3px solid blue;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    
+}
+caption{
+    color: rgba(71, 104, 39, 0.906);
+}
+label{
+    display: block; 
+    margin-top: 10px;
+}
+.t:hover{
+    display: noneSSSSSSSSSS;
+}
+    
